@@ -1,1 +1,26 @@
-[]
+[
+	{
+		"id": "1780155583359-50f14e81943198",
+		"uploadedAt": "2026-05-30T15:39:43.359Z",
+		"description": "我是一二，熊熊村最美丽的小熊，我有一只棕色小熊，他叫布布~",
+		"images": [
+			"/images/pictures/1f47150486808140.jpeg"
+		]
+	},
+	{
+		"id": "1780155614512-2a6f36b8586b08",
+		"uploadedAt": "2026-05-30T15:40:14.512Z",
+		"description": "出去拍照，✌",
+		"images": [
+			"/images/pictures/c2c9bff88c94c2f9.png"
+		]
+	},
+	{
+		"id": "1780155641612-590c02ff240bf8",
+		"uploadedAt": "2026-05-30T15:40:41.612Z",
+		"description": "在草地上和布布一起真舒服呀~",
+		"images": [
+			"/images/pictures/ddc72296f91209e6.png"
+		]
+	}
+]
