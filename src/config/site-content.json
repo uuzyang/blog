@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "UUZYang",
-		"description": "熊熊天地！",
+		"title": "uuzyang-blog",
+		"description": "熊熊村",
 		"username": "uuzyang"
 	},
 	"theme": {
@@ -31,9 +31,13 @@
 		{
 			"id": "1c7b726fe720679b",
 			"url": "/images/art/1c7b726fe720679b.jpg"
+		},
+		{
+			"id": "c2c9bff88c94c2f9",
+			"url": "/images/art/c2c9bff88c94c2f9.jfif"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "c2c9bff88c94c2f9",
 	"backgroundImages": [
 		{
 			"id": "",
