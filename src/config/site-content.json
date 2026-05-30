@@ -52,7 +52,7 @@
 			"url": "/images/background/ddc72296f91209e6.jfif"
 		}
 	],
-	"currentBackgroundImageId": "ddc72296f91209e6",
+	"currentBackgroundImageId": "c2c9bff88c94c2f9",
 	"socialButtons": [
 		{
 			"id": "github",
@@ -69,7 +69,7 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
