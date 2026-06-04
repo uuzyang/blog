@@ -22,3 +22,4 @@ Class: Algorithm
 | [[1-字符串与KMP]]     | #字符串      |
 | [[0-栈与队列]]        | #栈 #队列    |
 | [[0-二叉树]]         | #二叉树      |
+| [[https://blog-lemon-eight-47.vercel.app/algo-graph]]         | #图论      |
