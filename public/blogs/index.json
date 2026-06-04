@@ -1,5 +1,18 @@
 [
   {
+    "slug": "algo-graph",
+    "title": "图论",
+    "tags": [
+      "算法",
+      "图论"
+    ],
+    "date": "2026-06-04T17:45",
+    "summary": "",
+    "cover": "/blogs/algo-graph/28c44944d897f1a6.jpeg",
+    "hidden": false,
+    "category": "代码实现"
+  },
+  {
     "slug": "algo-list",
     "title": "Algorithm-List",
     "tags": [
