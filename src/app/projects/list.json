@@ -8,5 +8,16 @@
 		"tags": [
 			"教程"
 		]
+	},
+	{
+		"name": "Algo-code",
+		"year": 2026,
+		"image": "blob:https://blog-lemon-eight-47.vercel.app/b9c1e01a-eafd-4de2-ae06-0c0a8dfdb019",
+		"url": "https://github.com/uuzyang/Algorithms",
+		"description": "常用算法板子以及对应题解记录，配合算法笔记使用。",
+		"tags": [
+			"Algorithms"
+		],
+		"github": "https://github.com/uuzyang/Algorithms"
 	}
 ]
